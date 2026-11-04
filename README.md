@@ -120,6 +120,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [BabyPips](https://www.babypips.com/) - Free forex trading education for beginners.
 - [GFIL Blog](https://blog.quant-view.xyz/) - Trading calculators, research reports, and educational content in 4 languages.
 - [OpenAI Trading Papers](https://github.com/topics/algorithmic-trading) - GitHub topic for algorithmic trading research.
+- [PipAtlas](https://pipatlas.com/glossary/leverage) - Free educational reference explaining leverage in forex trading.
 
 ## Community & Forums
 
