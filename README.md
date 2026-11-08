@@ -27,6 +27,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 
 ## Trading Calculators & Tools
 
+- [Calculation Hub Compound Interest Calculator](https://calculation-hub.com/financial/compound-interest) - Free educational projections using principal, contributions, assumed interest rates, and compounding frequency, with optional tax and inflation adjustments.
 - [gfil-trading-calculators](https://github.com/liudapao880807-arch/gfil-trading-calculators) - Open-source Python + JavaScript library with 22 trading calculators: position sizing, pip value, ATR, Fibonacci, Kelly criterion, drawdown, risk-reward, margin, compound interest. Covers Forex, Gold (XAUUSD), Crypto, Indices. [PyPI](https://pypi.org/project/gfil-calculators/) | [npm](https://www.npmjs.com/package/gfil-trading-calculators) | [Live Demo](https://blog.quant-view.xyz/tools/position-size-calculator.html)
 - [position-sizing-tools](https://github.com/topics/position-sizing) - GitHub topic: repos related to position sizing.
 - [forex-calculator](https://github.com/topics/forex-calculator) - GitHub topic: Forex calculator tools.
