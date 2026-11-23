@@ -115,6 +115,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 
 ## Educational Resources
 
+- [eStockes Academy: Modelling costs](https://estockes.com/education/backtesting-and-validation/modelling-costs) - Free lesson on separating execution costs from holding costs and checking round-trip assumptions in a backtest.
 - [QuantConnect](https://www.quantconnect.com/learn) - Free algorithmic trading courses.
 - [Investopedia](https://www.investopedia.com/) - Comprehensive financial education.
 - [BabyPips](https://www.babypips.com/) - Free forex trading education for beginners.
